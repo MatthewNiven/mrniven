@@ -1,2 +1,2 @@
 # mrniven
-"This is a Commit"
+"This is a commit"
